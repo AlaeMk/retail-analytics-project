@@ -35,7 +35,7 @@ This project builds a complete data analytics solution for a multi‑channel ret
 |------|------|--------|--------------|
 | **1** | Data Cleaning | ✅ Complete | Cleaned 6 CSV files; handled missing values, outliers, date formats; added time features |
 | **2** | SQL Aggregations | ✅ Complete | 8 SQL queries (JOINs, GROUP BY, window functions); results include KPIs, city, monthly trend, top customers |
-| **3** | Dashboard Creation | ⏳ In Progress | Power BI dashboard with monthly trend, category/city sales, day-of-week analysis, slicers |
+| **3** | Dashboard Creation | ✅ Complete | Interactive Power BI dashboard with monthly trend, category/city/day‑of‑week charts, and slicers for date, city, channel. Files: `dashboard/retail_dashboard.pbix` and screenshots. |
 | **4** | Final Report & Insights | ⏳ Pending | PDF report with actionable business recommendations |
 
 ---
@@ -67,7 +67,21 @@ This project builds a complete data analytics solution for a multi‑channel ret
 All top 10 products belong to **Electronics** (batteries, chargers, cables, mobile accessories).
 
 ---
+## 📊 Week 3 – Power BI Dashboard
 
+The interactive dashboard allows decision‑makers to filter by date range, city, and sales channel. Key visualisations include:
+
+- **Monthly sales trend** (line chart)
+- **Revenue by product category** (bar chart)
+- **Sales by city** (bar chart)
+- **Sales by day of week** (bar chart)
+- **KPIs**: Total Revenue ($73.2M), Total Quantity (2M), Avg Order Value ($114), Unique Customers (5k)
+
+All visuals respond to slicers, enabling drill‑down analysis for inventory and marketing planning.
+
+📁 **Files:** [`dashboard/retail_dashboard.pbix`](https://github.com/AlaeMk/retail-analytics-project/tree/main/dashboard) and [screenshots](https://github.com/AlaeMk/retail-analytics-project/tree/main/dashboard).
+
+---
 ## 🛠️ Tools & Technologies
 
 - **Python** (Pandas, NumPy) – for data cleaning and preparation  
