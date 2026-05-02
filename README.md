@@ -79,7 +79,7 @@ The interactive dashboard allows decision‑makers to filter by date range, city
 
 All visuals respond to slicers, enabling drill‑down analysis for inventory and marketing planning.
 
-📁 **Files:** [`dashboard/retail_dashboard.pbix`](https://github.com/AlaeMk/retail-analytics-project/tree/main/dashboard) and [screenshots](https://github.com/AlaeMk/retail-analytics-project/tree/main/dashboard).
+📁 **Files:** [`dashboard/retail_dashboard.pbix`](https://github.com/AlaeMk/retail-analytics-project/tree/main/dashboard) 
 
 ---
 ## 🛠️ Tools & Technologies
@@ -122,4 +122,4 @@ GitHub: [AlaeMk](https://github.com/AlaeMk)
 
 ---
 
-*Last updated: May 2026 – Weeks 1 & 2 completed.*
+*Last updated: May 2026 – Weeks 1, 2 & 3 completed.*
