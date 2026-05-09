@@ -16,17 +16,47 @@
 
 This project builds a complete data analytics solution for a multi‑channel retailer. It unifies **physical store** and **online** sales data, cleans and prepares the data, performs SQL aggregations and business metrics, and finally presents insights through an interactive **Power BI dashboard**.
 
-**Key business questions answered:**
-- Total revenue & average transaction value
-- Sales by channel (Store, Website, MobileApp, etc.)
-- Top‑selling product categories
-- Monthly revenue trends
-- Sales performance by city
-- Customer spending patterns (running total, previous purchase growth, ranking)
+**Problem Statement:**
+In the rapidly digitizing retail landscape, offline businesses transitioning to digital models frequently encounter systemic bottlenecks due to fragmented data across multiple sales channels. This project solves that by creating a unified data analytics pipeline that enables inventory managers, store managers, and regional directors to make data-driven decisions.
 
+**Key business questions answered:**
+- What is our total revenue & average transaction value?
+- How do sales compare across channels (Store, Website, MobileApp, etc.)?
+- Which product categories are top-performers?
+- How do revenues trend month-to-month?
+- Which cities/regions drive the most sales?
+- What are customer spending patterns and growth opportunities?
 ---
 
 ## 📂 Repository Structure
+```
+retail-analytics-project/
+├── README.md                          # Project overview & setup guide
+├── FINAL_REPORT.md                    # Week 4: Business insights & recommendations
+├── requirements.txt                   # Python dependencies
+├── .gitignore                         # Excludes raw data, credentials
+│
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb        # Week 1: Data import, profiling, cleaning
+│   └── 02_exploratory_analysis.ipynb # Week 1: EDA, visualizations, insights
+│
+├── sql/
+│   ├── 01_create_schema.sql          # Week 2: Table creation & schema
+│   ├── 02_load_data.sql              # Week 2: Data import into database
+│   └── 03_analytics_queries.sql      # Week 2: Business metrics & aggregations
+│
+├── data/
+│   ├── raw/                          # Original CSV files (in .gitignore)
+│   └── cleaned/                      # Processed datasets ready for SQL
+│
+├── dashboard/
+│   ├── retail_dashboard.pbix         # Week 3: Interactive Power BI dashboard
+│   ├── dashboard_screenshot.png      # High-resolution screenshot
+│   └── filters_guide.md              # How to use filters
+│
+└── LICENSE                           # MIT License
+```
+
 
 
 ---
