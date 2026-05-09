@@ -1,7 +1,7 @@
 # Omnichannel Retail Sales Analytics - Final Report
 
 **Project Name**: Omnichannel Retail Sales and Inventory Analytics Dashboard  
-**Submitted by**: Alae Mk  
+**Submitted by**: Alae Benelmekki  
 **Date of Submission**: May 2026  
 **Internship Program**: Infotact Technical Internship - Data Analytics  
 **Repository**: https://github.com/AlaeMk/retail-analytics-project
