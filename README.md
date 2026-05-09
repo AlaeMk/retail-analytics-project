@@ -549,8 +549,8 @@ docs: Complete Week 4 final report and insights
 
 For questions about this project:
 - **GitHub Issues**: [Open an issue](https://github.com/AlaeMk/retail-analytics-project/issues)
-- **Email**: [alae.mk@example.com](mailto:alae.mk@example.com)
-- **LinkedIn**: [Alae Mk](https://linkedin.com/in/alae-mk)
+- **Email**: [alae.mk13@gmail.com](mailto:alae.mk13@gmail.com)
+- **LinkedIn**: [Alae Benelmekki](https://www.linkedin.com/in/alae-benelmekki/)
 
 ---
 
