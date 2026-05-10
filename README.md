@@ -14,6 +14,8 @@
 
 ![Omnichannel Retail Dashboard](./dashboard/retail_dashboard.pbix.png)
 
+![Omnichannel Retail Dashboard](./dashboard/retail_dashboard_filterApplied.pbix.png)
+
 This project builds a complete data analytics solution for a multi‑channel retailer. It unifies **physical store** and **online** sales data, cleans and prepares the data, performs SQL aggregations and business metrics, and finally presents insights through an interactive **Power BI dashboard**.
 
 **Problem Statement:**
