@@ -145,7 +145,7 @@ retail-analytics-project/
 
 ### Database Setup
 - **Engine**: Oracle SQL Developer
-- **Tables**: 3 main tables (Transactions, Products, Customers)
+- **Database Architecture**: Star Schema consisting of 1 Central Fact Table (SALES) and 5 Dimension Tables (PRODUCTS, CUSTOMERS, STORES, PROMOTIONS, and INVENTORY)
 - **Indexes**: On frequently queried columns (date, city, channel, product_category)
 - **Performance**: Average query response time < 500ms
 ### Relational Data Model (Star Schema)
