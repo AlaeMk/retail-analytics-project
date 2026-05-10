@@ -148,6 +148,10 @@ retail-analytics-project/
 - **Tables**: 3 main tables (Transactions, Products, Customers)
 - **Indexes**: On frequently queried columns (date, city, channel, product_category)
 - **Performance**: Average query response time < 500ms
+### Relational Data Model (Star Schema)
+To ensure data integrity and optimized querying for Power BI, I implemented a Star Schema centered around the `SALES` fact table. This architecture supports advanced JOINS and high-performance analytical filtering.
+
+![Relational Model Star Schema](./sql/relational%20model-Star%20schema.png)
 
 ### Core SQL Queries & Business Metrics
 
