@@ -1,4 +1,5 @@
 # 🛍️ Omnichannel Retail Analytics 🛍️
+**Developed by: Alae Benelmekki** *Data Analytics Intern @ Infotact | Business Intelligence Student*
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-Oracle-red?logo=oracle)](https://www.oracle.com/)
@@ -6,14 +7,18 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/AlaeMk/retail-analytics-project)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> **Infotact Technical Internship Project** – End-to-end data analytics pipeline for omnichannel retail sales, from raw CSV to interactive dashboard.
+> **Official Internship Project Submission** – An end-to-end data analytics pipeline transforming raw retail data into strategic business insights.
 
 ---
 
 ## 📌 Project Overview
-
+### 1. Executive Summary (Global View)
+*Target Audience: Regional Directors*
+This view provides the cumulative 5-year KPIs across all cities and channels
 ![Omnichannel Retail Dashboard](./dashboard/retail_dashboard.pbix.png)
-
+### 2. Operational Deep-Dive (Filtered View)
+*Target Audience: Store Managers*
+By applying the **City** and **Channel** slicers, the model dynamically updates to show localized performance—essential for inventory and marketing adjustments.
 ![Omnichannel Retail Dashboard](./dashboard/retail_dashboard_filterApplied.pbix.png)
 
 This project builds a complete data analytics solution for a multi‑channel retailer. It unifies **physical store** and **online** sales data, cleans and prepares the data, performs SQL aggregations and business metrics, and finally presents insights through an interactive **Power BI dashboard**.
