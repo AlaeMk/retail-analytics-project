@@ -1,4 +1,4 @@
-# 🛍️ Omnichannel Retail Analytics
+# 🛍️ Omnichannel Retail Analytics 🛍️
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-Oracle-red?logo=oracle)](https://www.oracle.com/)
@@ -555,7 +555,7 @@ docs: Complete Week 4 final report and insights
 
 For questions about this project:
 - **GitHub Issues**: [Open an issue](https://github.com/AlaeMk/retail-analytics-project/issues)
-- **Email**: [alae.mk13@gmail.com](mailto:alae.mk13@gmail.com)
+- **Email**: [alaemk13@gmail.com](mailto:alae.mk13@gmail.com)
 - **LinkedIn**: [Alae Benelmekki](https://www.linkedin.com/in/alae-benelmekki/)
 
 ---
