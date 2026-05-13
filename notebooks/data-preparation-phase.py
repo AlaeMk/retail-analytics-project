@@ -9,7 +9,7 @@
 #print(sales.head(2))
 """
 -----------------------------------------------------
-DATA PREPARATION PHASE - CORRECTED FOR YOUR COLUMNS
+DATA PREPARATION PHASE 
 -----------------------------------------------------
 Your columns: date, store_id, sku_id, customer_id, quantity, unit_price, 
               total_value, channel, discount_pct
