@@ -71,7 +71,7 @@ retail-analytics-project/
 ## 📊 Dataset Description
 
 ### Data Source
-- **Files**: 6 CSV files containing retail transaction data
+- **Files**: 6 CSV files (total ~2.5M rows) containing retail transaction data
 - **Time Period**: 2021–2025 (5 years of historical data)
 - **Record Count**: 641,843 transactions
 - **Unique Customers**: 5,001
