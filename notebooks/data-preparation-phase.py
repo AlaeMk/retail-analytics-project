@@ -11,7 +11,7 @@
 -----------------------------------------------------
 DATA PREPARATION PHASE 
 -----------------------------------------------------
-Your columns: date, store_id, sku_id, customer_id, quantity, unit_price, 
+ columns: date, store_id, sku_id, customer_id, quantity, unit_price, 
               total_value, channel, discount_pct
 """
 
